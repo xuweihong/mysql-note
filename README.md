@@ -1,2 +1,4 @@
-# mysql-optimizing
-mysql优化笔记
+# 笔记
+[Mysql优化](OPTIMIZING.md)
+
+[Redis知识](REDIS.md)
